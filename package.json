@@ -1,0 +1,26 @@
+{
+  "name": "ume",
+  "version": "1.0.0",
+  "description": "holaaa, soy ume, tu bot para gurpos de whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayl-end/Ume.git"
+  },
+  "keywords": [
+    "ume",
+    "chatbot",
+    "bot",
+    "umecita",
+    "umesita"
+  ],
+  "author": "aylend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayl-end/Ume/issues"
+  },
+  "homepage": "https://github.com/Ayl-end/Ume#readme"
+}
